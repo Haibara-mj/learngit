@@ -7,3 +7,4 @@ this is the 6 times' test
 this is branch test!
 new feature1 diff
 fast forward test
+not end test
