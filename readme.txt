@@ -8,3 +8,4 @@ this is branch test!
 new feature1 diff
 fast forward test
 hai test
+bug fix test
